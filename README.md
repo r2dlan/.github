@@ -1,37 +1,36 @@
 # Daniel Andres
 
-This is the central GitHub space for **Daniel Andres** — a home for ideas, experiments, and the occasional rabbit hole that turned into a project.
+This is the public home of **Daniel Andres** on GitHub — a place for projects, experiments, and everything that starts with curiosity.
 
-If you want the more polished version, head over to [daniel-andres.com](https://www.daniel-andres.com).
+If you're looking for the polished overview, visit [daniel-andres.com](https://www.daniel-andres.com).
 
-## What drives me
+## About
 
-I like technology, but even more I like the moment when technology starts doing something genuinely useful.
+I build, test, and explore things that make me ask the same question over and over:
 
-The fun begins when something feels a little mysterious:
+**Can this be done better, simpler, or differently?**
 
-- How does this actually work?
-- Could it be simpler?
-- What if we tried it a completely different way?
+That often leads me into software, cloud, smart home, AI, and hands-on projects — usually somewhere between useful, weird, and unexpectedly fun.
 
-That mindset tends to lead me into software, cloud systems, smart home setups, AI experiments, hands-on builds, and other things that start with curiosity and sometimes end in a full-blown side project.
+## What this space is for
 
-## What you’ll find here
+This organization reflects how I like to work:
 
-This organization is less about polished final answers and more about the process behind them:
+- learn by building
+- question the obvious
+- keep things practical
+- leave room for experiments
 
-- projects built out of curiosity
-- tools and experiments with practical use
-- ideas that may or may not become something bigger
-- a space for testing, learning, and iterating
+Some projects are small.
+Some are half-baked.
+Some turn into something bigger.
 
-I’m drawn to solutions that are clear, useful, and pragmatic — but I also enjoy exploring the weird, the unexpected, and the “let’s see what happens if…” kind of ideas.
+That’s the point.
 
-## In short
+## Visible to anyone
 
-This is a place for tech nerds, builders, tinkerers, and anyone who enjoys figuring things out.
+If you're here as a curious visitor: welcome.
 
-Not everything here will be finished.
-Not everything here will be obvious.
+If you're here for the tech: even better.
 
-But hopefully it’ll always be interesting.
+If you're here because you enjoy figuring things out and trying ideas just to see where they go: you're in the right place.
