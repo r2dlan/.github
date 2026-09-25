@@ -8,4 +8,4 @@ Here you’ll find projects and experiments around software, cloud, smart home, 
 
 This organization is less about polished answers and more about curiosity, experimentation, and learning by doing.
 
-If you want the more polished version, visit <a href="https://www.daniel-andres.com" target="_blank" rel="noreferrer">daniel-andres.com</a>.
+More about me personally can be found on <a href="https://www.daniel-andres.com" target="_blank" rel="noreferrer">daniel-andres.com</a>.
