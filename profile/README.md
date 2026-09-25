@@ -1,34 +1,11 @@
 # Daniel Andres
 
-Welcome to the public home of **Daniel Andres** on GitHub — a place for projects, experiments, and whatever starts with a curious question.
+Welcome to my GitHub organization — a place for building, exploring, and turning curiosity into working things.
 
-If you'd like the polished version, visit [daniel-andres.com](https://www.daniel-andres.com).
+I’m Daniel Andres. I like technology, but even more I like what it makes possible. I enjoy understanding how things work, questioning existing solutions, and building things that are useful, practical, or simply interesting.
 
-## About
+Here you’ll find projects and experiments around software, cloud, smart home, AI, and the occasional idea that just had to be tried.
 
-I’m interested in technology, but even more in what it enables.
+This organization is less about polished answers and more about curiosity, experimentation, and learning by doing.
 
-The interesting part usually starts with a simple question:
-
-**Can this be built better, simpler, or differently?**
-
-That often leads me into software, cloud, smart home, AI, and hands-on experiments — somewhere between practical, playful, and a little unconventional.
-
-## What this organization is about
-
-This space reflects how I like to work:
-
-- learn by building
-- question assumptions
-- keep solutions pragmatic
-- leave room for experiments
-
-Some things stay small.
-Some become bigger than expected.
-Some are just worth trying.
-
-## For curious visitors
-
-If you're here because you like tinkering, building, or figuring things out, you're in the right place.
-
-If you're here because you enjoy tech with a real purpose, even better.
+If you want the more polished version, visit <a href="https://www.daniel-andres.com" target="_blank" rel="noreferrer">daniel-andres.com</a>.
